@@ -46,4 +46,4 @@ through linked lists in C++.
 
 <p>To download our project on your machine you just need to clone it. This can be done by pasting this text in your command prompt:</p>
 
-<pre></pre>
+<pre>https://github.com/codingburgas/movie-ticket-booking-system-10th-grade-GSStoyanov22.git</pre>
