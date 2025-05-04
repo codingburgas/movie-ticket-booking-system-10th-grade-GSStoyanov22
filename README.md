@@ -38,7 +38,7 @@ through linked lists in C++.
     <li><a href="https://github.com/codingburgas/linked-list-sprint-project-pointerx/raw/refs/heads/main/docs/PointerX-QA-Documentation1.xlsx">🧾 QA documentation</a></li>
   
    
-## 🧑🏻‍💻 Contributors <a name="contributors"></a>
+## 🧑🏻‍💻 Contributor <a name="contributors"></a>
 
 - <a href = "https://github.com/GSStoyanov"> Georgi Stoyanov </a>
 
