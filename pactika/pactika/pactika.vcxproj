@@ -128,12 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\head.cpp" />
+    <ClCompile Include="src\login.cpp" />
+    <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Menu.cpp" />
+    <ClCompile Include="src\signUp.cpp" />
     <ClCompile Include="src\Source.cpp" />
+    <ClCompile Include="src\startingScreen.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\head.h" />
+    <ClInclude Include="include\login.h" />
     <ClInclude Include="include\Menu.h" />
+    <ClInclude Include="include\signUp.h" />
+    <ClInclude Include="include\startingScreen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

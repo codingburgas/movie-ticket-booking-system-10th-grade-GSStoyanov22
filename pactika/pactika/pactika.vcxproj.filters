@@ -18,10 +18,22 @@
     <ClCompile Include="src\head.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="src\Menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\signUp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="src\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\startingScreen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +41,16 @@
     <ClInclude Include="include\head.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="include\login.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="include\Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\signUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\startingScreen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
