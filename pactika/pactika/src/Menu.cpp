@@ -74,9 +74,9 @@ public:
     void displayMenu() {
         int enter;
         system("cls");
-        cout << "==============================\n";
-        cout << "    C I N E M A   C I T Y    \n";
-        cout << "==============================\n";
+        cout << "===================\n";
+        cout << "    CINEMA CITY    \n";
+        cout << "===================\n";
         cout << "1. Administrator Login\n";
         cout << "2. Exit\n";
         cin >> enter;
@@ -143,9 +143,9 @@ void startMenu() {
     while (true) {
         int choice;
         system("cls");
-        cout << "==============================\n";
-        cout << "    C I N E M A   C I T Y    \n";
-        cout << "==============================\n";
+        cout << "===================\n";
+        cout << "    CINEMA CITY    \n";
+        cout << "===================\n";
         cout << "1. Administrator\n";
         cout << "2. Customer\n";
         cout << "3. Exit\n";

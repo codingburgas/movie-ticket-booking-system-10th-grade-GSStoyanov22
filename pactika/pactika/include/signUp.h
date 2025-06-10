@@ -1,6 +1,0 @@
-#ifndef SIGNUP_H
-#define SIGNUP_H
-
-void signUp();
-
-#endif
