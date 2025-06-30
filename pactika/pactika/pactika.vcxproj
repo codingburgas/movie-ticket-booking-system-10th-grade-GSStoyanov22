@@ -127,20 +127,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Administrator.cpp" />
+    <ClCompile Include="Booking.cpp" />
+    <ClCompile Include="Customer.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="SignUp.cpp" />
     <ClCompile Include="src\head.cpp" />
-    <ClCompile Include="src\login.cpp" />
-    <ClCompile Include="src\main.cpp" />
-    <ClCompile Include="src\Menu.cpp" />
-    <ClCompile Include="src\signUp.cpp" />
+    <ClCompile Include="src\Login.cpp" />
     <ClCompile Include="src\Source.cpp" />
-    <ClCompile Include="src\startingScreen.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Administrator.h" />
+    <ClInclude Include="Booking.h" />
+    <ClInclude Include="Customer.h" />
     <ClInclude Include="include\head.h" />
-    <ClInclude Include="include\login.h" />
-    <ClInclude Include="include\Menu.h" />
-    <ClInclude Include="include\signUp.h" />
-    <ClInclude Include="include\startingScreen.h" />
+    <ClInclude Include="include\Login.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="SignUp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
