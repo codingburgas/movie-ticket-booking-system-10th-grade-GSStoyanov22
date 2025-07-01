@@ -133,7 +133,6 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="SignUp.cpp" />
-    <ClCompile Include="src\head.cpp" />
     <ClCompile Include="src\Login.cpp" />
     <ClCompile Include="src\Source.cpp" />
   </ItemGroup>

@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include "Booking.h"
 
 using namespace std;
