@@ -1,8 +1,9 @@
 #include <iostream>
-#include "Menu.h"
+#include "startingScreen.h"
+#include "login.h"
 
 int main() {
-    Menu menu;
-    menu.showMainMenu();
+    showStartingScreen();
+    login();
     return 0;
 }

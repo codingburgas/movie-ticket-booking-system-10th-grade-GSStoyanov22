@@ -15,28 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Login.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Booking.cpp">
+    <ClCompile Include="guest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Customer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Administrator.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SignUp.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Menu.cpp">
+    <ClCompile Include="login.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="startingScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="admin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -44,22 +38,16 @@
     <ClInclude Include="include\head.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\Login.h">
+    <ClInclude Include="guest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Booking.h">
+    <ClInclude Include="login.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Customer.h">
+    <ClInclude Include="startingScreen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Administrator.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="SignUp.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Menu.h">
+    <ClInclude Include="admin.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
