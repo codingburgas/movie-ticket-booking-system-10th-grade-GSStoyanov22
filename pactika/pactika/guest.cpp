@@ -32,10 +32,9 @@ void guestMenu() {
         return;
     }
 
-    const int R = 5; // rows A-E
-    const int C = 8; // cols 0-7
+    const int R = 5; 
+    const int C = 8; 
     vector<vector<bool>> taken(R, vector<bool>(C, false));
-    // Add taken seats here if needed
 
     cout << "\nSeats layout (0 = free, X = taken):\n";
     const int cellW = 3;
