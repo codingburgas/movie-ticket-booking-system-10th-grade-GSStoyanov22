@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "admin.h"
 #include "login.h"
 #include "guest.h"
 
@@ -12,7 +13,10 @@ void login() {
 
     if (username == "admin" && password == "admin123") {
         std::cout << "Welcome, Administrator!\n";
-    } else {
+        adminMenu();
+
+    }
+    else {
         std::cout << "Welcome, Guest!\n";
         guestMenu();
     }
